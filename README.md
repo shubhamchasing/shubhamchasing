@@ -1,10 +1,8 @@
-<div align="center">
-  <img height="150" src="https://github.com/shubhamchasing/shubhamchasing/blob/main/github-header-image.png"  />
-</div>
 
+![Header](./github-header-image.png)
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/shubhamchasing" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
@@ -12,7 +10,7 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
-<p align="center"><i>Note: Looking for new opportunity.</i></p>
+<p align="left"><i>Note: Looking for new opportunity.</i></p>
 
 ###
 <h1 align="left">I'm Shubham 👋</h1>
