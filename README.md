@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
-<p align="left"><i>Note: Looking for new opportunity.</i></p>
+<p align="left"><i>Note: Looking for new opportunity in Frontend development.</i></p>
 
 ###
 <h1 align="left">I'm Shubham 👋</h1>
@@ -29,7 +29,7 @@
 
 - 📫 How to reach me: **shubhamchasing@gmail.com**
 
-- ⚡ Fun fact: **I am best and worst 😎 😥**
+- ⚡ Fun fact: **We all imitate confidence🎭**
 
 ###
 
