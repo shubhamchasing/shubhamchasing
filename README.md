@@ -19,7 +19,7 @@
 ###
 - 🔭 I’m currently working on **React.js or related stack.**
 
-- 🌱 Always in the learning **learning.**
+- 🌱 Always in the **learning mode.**
 
 - 🎯 Goal is to hone **Full Stack Development.**
 
