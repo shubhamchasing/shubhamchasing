@@ -29,7 +29,7 @@
 
 - 📫 How to reach me: **shubhamchasing@gmail.com**
 
-- ⚡ Fun fact: **We all imitate confidence🎭**
+- ⚡ Fun fact: Tech is a never-ending journey 🛤️
 
 ###
 
