@@ -1,5 +1,4 @@
-
-![Header](./github-header-image.png)
+[![An image of @shubhamchasing's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shubhamchasing)](https://holopin.io/@shubhamchasing)
 ###
 
 <div align="left">
